@@ -40,7 +40,7 @@ h1 {
   padding-bottom: 1.5rem;
 }
 #size {
-  max-width: 31rem;
+  max-width: 500px;
   padding: .5rem 0rem;
 }
 
@@ -49,7 +49,7 @@ h1 {
 }
 
 img {
-  max-width: 31rem;
+  max-width: 500px;
 }
 
 #text {
