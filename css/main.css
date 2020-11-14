@@ -40,6 +40,7 @@ h1 {
   padding-bottom: 1.5rem;
 }
 #size {
+  max-height: 288px;
   max-width: 500px;
   padding: .5rem 0rem;
 }
