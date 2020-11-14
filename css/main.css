@@ -40,8 +40,8 @@ h1 {
   padding-bottom: 1.5rem;
 }
 #size {
-  max-height: 288px;
-  max-width: 500px;
+  height: 288px;
+  width: 500px;
   padding: .5rem 0rem;
 }
 
@@ -50,7 +50,7 @@ h1 {
 }
 
 img {
-  max-width: 500px;
+  width: 500px;
 }
 
 #text {
